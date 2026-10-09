@@ -1,0 +1,14 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "hoodeez" },
+  "metadata": { "description": "Claude Code mods." },
+  "plugins": [
+    {
+      "name": "agent-crew",
+      "source": "./plugins/agent-crew",
+      "description": "Bubbles above the prompt showing each subagent as a mini Claude, colored by activity, with a progress % and a short label.",
+      "version": "0.1.0",
+      "category": "mod"
+    }
+  ]
+}

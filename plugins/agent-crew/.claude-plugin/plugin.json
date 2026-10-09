@@ -1,0 +1,10 @@
+{
+  "name": "agent-crew",
+  "version": "0.1.0",
+  "description": "Bubbles above the prompt showing each subagent as a mini Claude, colored by what it is doing, with a progress % and a short label.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "hoodeez"
+  },
+  "license": "MIT"
+}
