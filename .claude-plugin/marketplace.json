@@ -1,7 +1,7 @@
 {
   "name": "claude-mods",
-  "owner": { "name": "hoodeez" },
-  "metadata": { "description": "Claude Code mods." },
+  "owner": { "name": "ErikMTaylor", "url": "https://github.com/ErikMTaylor/claude-mods" },
+  "metadata": { "description": "Claude Code Mods" },
   "plugins": [
     {
       "name": "agent-crew",
